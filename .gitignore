@@ -1,0 +1,3 @@
+#IGNORE NODE MODULES INSTALLED FROM NPM
+node_modules 
+
